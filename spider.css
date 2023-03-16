@@ -41,6 +41,9 @@ background-size:100% 700px ;
     letter-spacing: 1px;
     text-transform: uppercase;
     margin: 0 0 24px;
+    font: 400 34px/1 RobotoCondensed Bold,Trebuchet MS,Helvetica,Arial,sans-serif;
+    letter-spacing: 1px;
+    text-align: right;
 }
 #spiderinfo{
     font-size: 14px;
