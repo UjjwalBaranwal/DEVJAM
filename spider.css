@@ -32,4 +32,8 @@ background-size:100% 700px ;
     font: 400 16px/1.3 Roboto,Trebuchet MS,Helvetica,Arial,sans-serif;
     letter-spacing: .5px;
 }
+#box2{
+    background-image:url(spider.jpg);
+    background-size:100% 850px;
+}
 
