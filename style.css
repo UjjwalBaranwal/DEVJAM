@@ -119,23 +119,23 @@ h2.heading {
   transition: background 0.8s linear;
 }
 .card0 {
-  background: url(/img/thor1.jpg) center center no-repeat;
+  background: url(img/thor1.jpg) center center no-repeat;
   background-size: 400px;
   /* border: 2px solid red; */
   box-shadow: 7px 5px 20px grey;
 }
 .card1 {
-  background: url(/img/iron2.jpg) center center no-repeat;
+  background: url(img/iron2.jpg) center center no-repeat;
   box-shadow: 7px 5px 20px grey;
   background-size: 400px;
 }
 .card2 {
-  background: url(/img/captain1.jpg) center center no-repeat;
+  background: url(img/captain1.jpg) center center no-repeat;
   box-shadow: 7px 5px 20px grey;
   background-size: 400px;
 }
 .card3 {
-  background: url(/img/bw.jpg) center center no-repeat;
+  background: url(img/bw.jpg) center center no-repeat;
   box-shadow: 7px 5px 20px grey;
   background-size: 400px;
 }
